@@ -1,0 +1,160 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body{
+	padding-top: 70px;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+.center-block {
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.no-bold{
+	font-weight: normal !important;
+}
+
+
+
+.m-left10{
+	margin-left: 10px;
+}
+
+.m-top40{
+	margin-top: 40px;
+}
+
+.m-btm20{
+	margin-bottom: 20px;
+}
+
+.m-btm10{
+	margin-bottom: 20px;
+}
+
+.m-20{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.m-40{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.p-40{
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.p-0{
+	padding: 0 0 0 0 !important;
+}
+
+.left{
+	float: left;
+}
+
+.right{
+	float: right;
+}
+
+#nav{
+	background-color: #fff !important;
+}
+
+.icon-bar{
+	background-color: #000;
+}
+
+#main-nav-container{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.product-box{
+	width: 25%;
+	min-width: 300px;
+	max-width: 330px;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-right: 10px;
+	float: left;
+}
+
+.product-slider{
+	height: 475px;
+	max-height: 475px;
+}
+
+.slider-control{
+	vertical-align: middle;
+	margin-top: 180px;
+	cursor: pointer;
+}
+
+.slider-control:hover{
+	color: #eee;
+}
+
+.alternate{
+	background-color: #eee;
+}
+
+#btm-nav{
+
+}
+
+#btm-nav li a{
+	padding: 0px 10px 5px 10px;
+}
+
+#btm-nav li a:hover{
+	padding: 0px 10px 5px 10px;
+	color: #eee !important;
+	background-color: #b3b3b3 !important;
+}
+
+footer{
+	background-color: #b3b3b3;
+	color: #fff !important;
+}
+
+footer a{
+	color: #fff !important;
+}
+
+@media only screen and (max-width: 992px) and (min-width: 768px){
+	.navbar-collapse>ul>li>a{
+		padding: 15px 5px 5px 5px;
+	}
+}
+
+@media only screen and (max-width: 768px){
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
