@@ -97,6 +97,29 @@ a:hover{
 	padding-bottom: 10px;
 }
 
+#logo-menu{
+	height: 50px;
+}
+
+#logo-menu-link{
+	padding: 0 0 0 0 !important;
+}
+
+#home-hero{
+	background-image: url(../img/home.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+#home-hero .container{
+	color: #fff !important;
+}
+
+#search{
+	margin-top: -20px !important;
+}
+
 .product{
 	margin-bottom: 20px;
 }
