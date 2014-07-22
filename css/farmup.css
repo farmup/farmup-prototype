@@ -72,6 +72,10 @@ a:hover{
 	padding: 0 0 0 0 !important;
 }
 
+.p-btm40{
+	padding-bottom: 40px;
+}
+
 .p-top0{
 	padding-top: 0px;
 }
@@ -110,6 +114,8 @@ a:hover{
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
+	padding-top: 60px;
+	padding-bottom: 60px;
 }
 
 #home-hero .container{
@@ -154,7 +160,7 @@ a:hover{
 }
 
 #btm-nav{
-
+	padding-top: 40px;
 }
 
 .navbar{
@@ -173,12 +179,15 @@ a:hover{
 }
 
 footer{
-	background-color: #b3b3b3;
+	background-color: #373737;
 	color: #fff !important;
 }
 
 footer a{
 	color: #fff !important;
+}
+
+#logo-footer{
 }
 
 @media only screen and (max-width: 992px) and (min-width: 768px){
