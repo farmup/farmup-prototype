@@ -124,6 +124,8 @@ a:hover{
 
 #search{
 	margin-top: -20px !important;
+	background-color: #373737;
+	border-color: #373737;
 }
 
 .product{
@@ -156,7 +158,15 @@ a:hover{
 }
 
 .alternate{
-	background-color: #eee;
+	background-color: #e0e0e0;
+}
+
+.alternate-blue{
+	background-color: #92c2d3;
+}
+
+.alternate-green{
+	background-color: #86cc7d;
 }
 
 #btm-nav{
