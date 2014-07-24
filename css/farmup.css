@@ -249,6 +249,11 @@ a:hover{
 	padding-top: 40px;
 }
 
+#login-form{
+	height: 400px;
+	width: 40%;
+}
+
 .navbar{
 	border-radius: 0px !important;
 	border: none !important;
