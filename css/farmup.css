@@ -67,6 +67,10 @@ a:hover{
 	margin-top: 40px;
 }
 
+.m-top10{
+	margin-top: 10px;
+}
+
 .m-right15{
 	margin-right: 15px;
 }
@@ -171,7 +175,7 @@ a:hover{
 }
 
 .product{
-	margin-bottom: 40px;
+	margin-bottom: 50px;
 }
 
 .product-box{
@@ -189,6 +193,10 @@ a:hover{
 	max-height: 475px;
 }
 
+.caption h3{
+	margin-top: 10px;
+}
+
 .small-profile{
 	margin-top: 5px;
 	width: 50px;
@@ -197,6 +205,10 @@ a:hover{
 
 .location, .rating{
 	margin-bottom: 3px;
+}
+
+.rating{
+	color: yellow;
 }
 
 .wrap{
@@ -209,6 +221,11 @@ a:hover{
 .profile-container{
 	background-color: #fff;
 	margin-bottom: 40px;
+	padding-bottom: 20px;
+}
+
+.profile-products{
+	margin-top: 30px;
 }
 
 .cover-photo{
@@ -221,7 +238,14 @@ a:hover{
 
 .profile-description{
 	background-color: rgb(200, 200, 200);
-	background-color: rgba(200, 200, 200, .5);
+	background-color: rgba(200, 200, 200, .8);
+	color: #3d3d3d;
+	padding: 20px 15px 20px 15px;
+}
+
+.seccion-perfil{
+	background-color: #eee;
+	padding: 10px 10px 10px 10px;
 }
 
 .caption h3{
@@ -242,7 +266,7 @@ a:hover{
 }
 
 .product a{
-	color: #000 !important
+	color: #333 !important
 }
 
 .product a.btn{
