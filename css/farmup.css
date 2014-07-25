@@ -107,6 +107,10 @@ a:hover{
 	padding-top: 0px;
 }
 
+.p-left30{
+	padding-left: 30px;
+}
+
 .left{
 	float: left;
 }
@@ -175,7 +179,10 @@ a:hover{
 }
 
 .product{
-	margin-bottom: 50px;
+	margin-bottom: 20px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border: 1px solid #c8cacc;
 }
 
 .product-box{
@@ -218,14 +225,33 @@ a:hover{
 	padding-top: 40px;
 }
 
-.profile-container{
+.profile-container, .product-container{
 	background-color: #fff;
 	margin-bottom: 40px;
 	padding-bottom: 20px;
 }
 
-.profile-products{
+.profile-products, .product-info{
 	margin-top: 30px;
+}
+
+.product-producer{
+	margin-top: 20px;
+}
+
+.product-buy-form{
+	background-color: #eee;
+	padding: 20px 15px 20px 15px;
+}
+
+.product-buy-form h3{
+	margin-top: 10px;
+}
+
+.btn-comprar{
+	width: 100%;
+	margin-top: 15px;
+	margin-left: 0px;
 }
 
 .cover-photo{
@@ -271,6 +297,12 @@ a:hover{
 
 .product a.btn{
 	color: #fff !important;
+}
+
+#reviews{
+	padding-top: 40px;
+	padding-left: 30px;
+	padding-right: 30px;
 }
 
 #quienes{

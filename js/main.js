@@ -23,6 +23,8 @@ $(document).ready(function() {
   $('#sliderNext').click(function(){
   	owl.next();
   });
+
+  
  
 });
 
