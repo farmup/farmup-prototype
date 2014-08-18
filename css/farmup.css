@@ -1,8 +1,12 @@
 
 
 /* ==========================================================================
-   Author's custom styles
+   Author: Luis Mendoza;
    ========================================================================== */
+
+@import url(marginizer.css);
+@import url(farmup-extras.css);
+
 
 body{
 	padding-top: 70px;
